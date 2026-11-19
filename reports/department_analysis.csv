@@ -1,0 +1,6 @@
+Department,Employee_Count,Average_Salary,Median_Salary,Total_Salary,Average_Experience,Average_Performance
+Finance,25,63641.24,61208.0,1591031.0,10.96,2.68
+HR,13,57743.31,60247.0,750663.0,10.23,3.08
+IT,26,64935.58,68200.0,1688325.0,11.23,3.23
+Marketing,11,59786.0,51092.0,657646.0,8.36,2.82
+Sales,24,65867.62,63625.0,1580823.0,11.46,2.88
